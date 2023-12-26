@@ -81,7 +81,11 @@ Thumbnail				Миниатюра
 Objectives				Задачи
 Try it out!				Попробуйте!
 prediction(s)				прогноз(ы)
-
+runtime                 среда выполнения
+lander                  посадочный аппарат
+SOTA (state of the art) самый современный метод
+state-action values     значения состояния-действия
+commit message          сообщение commit
 
 -----
 * - Обучение с подкреплением для реальных задач. Инженерный подход, Уиндер Ф. [ISBN 978-5-9775-6885-2] Стр. 87
